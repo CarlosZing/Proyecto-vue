@@ -1,4 +1,8 @@
 # .
+## Autor
+-Nombre: Carlos Felipe Zing Meza
+-Email: a23311061@uthermosillo.edu.mx
+-GitHub: https://github.com/CarlosZing
 
 This template should help get you started developing with Vue 3 in Vite.
 
